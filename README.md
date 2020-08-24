@@ -1,4 +1,5 @@
 # ckcsl
+
 git diffの中にconsole.logが入っていたら通知したい
 
 ver1: git diffで表示される差分の中にconsole.logが入っていたら通知される
