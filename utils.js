@@ -10,3 +10,7 @@ const isChunkHeaderRow = (text) => {
     const isChunkHeader = initialChar === "@" && secondChar === "@"
     return isChunkHeader
 }
+
+const textToRows = (text) => {
+    return text.split('\n')
+}
